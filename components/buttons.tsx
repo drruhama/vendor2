@@ -52,4 +52,4 @@ export const SubmitButton = ({label}:{label: string}) => {
             )}
         </button>
     )
-}s
+};
